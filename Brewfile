@@ -1,0 +1,5 @@
+brew "tmux"
+brew "neovim"
+brew "fzf"
+cask "alacritty"
+cask "font-hack-nerd-font"
