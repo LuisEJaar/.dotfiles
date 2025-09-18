@@ -1,0 +1,5 @@
+# vi: set ft=sh :
+
+stow -vv alacritty
+stow -vv neovim
+stow -vv tmux
