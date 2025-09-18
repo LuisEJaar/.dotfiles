@@ -1,5 +1,6 @@
 brew "tmux"
 brew "neovim"
 brew "fzf"
+brew "stow"
 cask "alacritty"
 cask "font-hack-nerd-font"
